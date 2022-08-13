@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @waleedElgazar
-- I'm a golang backend develpoer 
-- 👀 I’m interested in machine learing and android development
-- 🌱 I’m currently learning machine learning and android
-- 📫 You can reach me on linkedin by follwing this link "http://linkedin.com/in/waleedelgazar/"
-
+-Building a strong and a highly qualified career in software development,
+programming, and research through working in a productive, creative team and always seeking to enhance my position.
+-Full-time developing software where I can fully utilize my background, further develops my technical skills and contributes to the company. 
