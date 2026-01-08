@@ -76,7 +76,6 @@ Hands-on experience with **high-traffic systems**, **legacy refactoring**, and *
 - Optimize database queries and application performance
 - Participate in architectural discussions and technical decisions
 - Conduct code reviews and mentor engineers
-
 ---
 <!--
 ## 📈 GitHub Stats
@@ -85,15 +84,14 @@ Hands-on experience with **high-traffic systems**, **legacy refactoring**, and *
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waleedElgazar&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p> -->
 
----
 <!--
 ## 📌 Interests
 - Software Architecture & System Design
 - Backend Performance & Reliability
 - Clean Code & Refactoring
 - Pragmatic Technology Adoption
--->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer" />
 </p>
-```
+-->
